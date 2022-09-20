@@ -1,0 +1,8 @@
+C:\Users\Richard\source\repos\Parking Brake 2022\Parking Brake 2022\bin\Debug\Parking Brake 2022.dll
+C:\Users\Richard\source\repos\Parking Brake 2022\Parking Brake 2022\bin\Debug\Parking Brake 2022.pdb
+C:\Users\Richard\source\repos\Parking Brake 2022\Parking Brake 2022\obj\Debug\Parking Brake 2022.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\Parking Brake 2022\Parking Brake 2022\obj\Debug\Parking Brake 2022.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\Parking Brake 2022\Parking Brake 2022\obj\Debug\Parking Brake 2022.dll
+C:\Users\Richard\source\repos\Parking Brake 2022\Parking Brake 2022\obj\Debug\Parking Brake 2022.pdb
+C:\Steam\steamapps\common\Grand Theft Auto V\scripts\Parking Brake 2022.dll
+C:\Steam\steamapps\common\Grand Theft Auto V\scripts\Parking Brake 2022.pdb
